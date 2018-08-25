@@ -1,0 +1,13 @@
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe.config
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\bin\Debug\Exercicio6.pdb
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\obj\Debug\Exercicio6.exe
+C:\Users\unisanta\Desktop\Exercicio6\Exercicio6\obj\Debug\Exercicio6.pdb
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe.config
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\bin\Debug\Exercicio6.pdb
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csprojAssemblyReference.cache
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\obj\Debug\Exercicio6.exe
+C:\Users\Kitto\Documents\Visual Studio\Exercicio6\Exercicio6\obj\Debug\Exercicio6.pdb
